@@ -1,5 +1,3 @@
-# Sales-Data-Analysis
-A simple project analysing retail sales data using Python and visualizations.
 #  Sales Data Analysis
 
 A simple data analysis and visualization project done using *Python, **Pandas, **Matplotlib, and **Seaborn* in Google Colab.
